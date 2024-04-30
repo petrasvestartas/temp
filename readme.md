@@ -12,3 +12,10 @@ ToDo:
 -  afterwards we can calibration using different connections: a) no joints, b) hilti, c) wood-wood three valence
 -  journal publications
 -  https://utoronto.sharepoint.com/sites/001T_FASECIVMINSUSTRUCSY/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2F001T%5FFASECIVMINSUSTRUCSY%2FShared%20Documents%2F1%5FResearch%2F1%5F2%5FCOMPAS%5FFEA&p=true&ga=1
+
+
+compas_opensees
+sudo apt update
+sudo apt install tcl
+sudo apt install tcl-dev
+git clone https://github.com/OpenSees/OpenSees.git
